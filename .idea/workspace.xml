@@ -289,7 +289,7 @@
       <workItem from="1591081664223" duration="783000" />
       <workItem from="1591082457142" duration="136000" />
       <workItem from="1591082597330" duration="770000" />
-      <workItem from="1591083446544" duration="303000" />
+      <workItem from="1591083446544" duration="929000" />
     </task>
     <task id="LOCAL-00001" summary="尚筹网(权限管理页面完成阶段)">
       <created>1590807945556</created>
@@ -340,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591083510807</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="尚筹网(第一阶段-管理员部分完成)">
+      <created>1591084005148</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1591084005148</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,17 +394,6 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
               <option name="COLUMN_WIDTH">
                 <map>
                   <entry key="2" value="117" />
@@ -407,11 +403,6 @@
             </State>
           </value>
         </entry>
-      </map>
-    </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -459,10 +450,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="664" y="37" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1591083227195" />
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1591082784465">
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1591083755628">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1591082784465" />
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1591083755628" />
     <state x="579" y="336" key="Github.CreateGistDialog" timestamp="1591082714764">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
