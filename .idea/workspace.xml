@@ -24,16 +24,24 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="907cf290-fb7e-4028-b78f-2804216b2d45" name="Default Changelist" comment="尚筹网(第一阶段-管理员部分完成)">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="907cf290-fb7e-4028-b78f-2804216b2d45" name="Default Changelist" comment="尚筹网(前台环境搭建前半部分完成)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/src/main/java/com/raise/crowd/test/MBGTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding06-common-reverse/src/main/java/com/raise/crowd/test/MBGTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding06-common-reverse/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/com/raise/crowd/test/MBGTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/com/raise/crowd/test/MBGTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding01-admin-parent/crowdfunding02-admin-webui/target/test-classes/META-INF/crowdfunding02-admin-webui.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding01-admin-parent/crowdfunding03-admin-component/target/classes/META-INF/crowdfunding03-admin-component.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding01-admin-parent/crowdfunding04-admin-entity/target/classes/META-INF/crowdfunding04-admin-entity.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding05-common-util/target/classes/META-INF/crowdfunding05-common-util.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/META-INF/crowdfunding06-common-reverse.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding08-member-eureka/target/classes/META-INF/crowdfunding08-member-eureka.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding09-member-entity/target/classes/META-INF/crowdfunding09-member-entity.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding09-member-entity/target/test-classes/META-INF/crowdfunding09-member-entity.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding10-member-mysql-provider/target/classes/META-INF/crowdfunding10-member-mysql-provider.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding10-member-mysql-provider/target/test-classes/META-INF/crowdfunding10-member-mysql-provider.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding11-member-redis-provider/crowdfunding11-member-redis-provider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding11-member-redis-provider/crowdfunding11-member-redis-provider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding11-member-redis-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding11-member-redis-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding12-member-authentication-consumer/crowdfunding12-member-authentication-consumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding12-member-authentication-consumer/crowdfunding12-member-authentication-consumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding12-member-authentication-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding12-member-authentication-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding16-member-zuul/crowdfunding16-member-zuul.iml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding16-member-zuul/crowdfunding16-member-zuul.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding16-member-zuul/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding16-member-zuul/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +58,7 @@
         <option value="AnnotationType" />
         <option value="Jsp File" />
         <option value="Interface" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -86,17 +95,19 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding09-member-entity/src/test/java" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding16-member-zuul/src/main/resources" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2886836" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -110,18 +121,6 @@
       <recent name="com.raise.crowd" />
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding09-member-entity\src\test\java" />
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\error" />
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding03-admin-component\src\main\java\com\raise\crowd\mvc\config" />
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding03-admin-component\src\main\java\org\springframework\web\filter" />
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.raise.crowd" />
-      <recent name="com.raise.crowd.mapper" />
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding10-member-mysql-provider\src\main\resources" />
       <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding08-member-eureka\src\main\resources" />
@@ -129,42 +128,25 @@
       <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\menu" />
       <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\role" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.raise.crowd" />
+      <recent name="com.raise.crowd.mapper" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding16-member-zuul\src\main\resources" />
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding12-member-authentication-consumer\src\main\resources\static" />
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding12-member-authentication-consumer\src\main\resources" />
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding09-member-entity\src\test\java" />
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\error" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.CrowdMysqlMainClass">
-    <configuration name="MBGTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.raise.crowd.test.MBGTest" />
-      <module name="crowdfunding06-common-reverse" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.raise.crowd.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CrowdMysqlMainClassTests.dataSourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="crowdfunding10-member-mysql-provider" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.raise.crowd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.raise.crowd" />
-      <option name="MAIN_CLASS_NAME" value="com.raise.crowd.CrowdMysqlMainClassTests" />
-      <option name="METHOD_NAME" value="dataSourceTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.CrowdZuulMainClass">
     <configuration name="CrowdMysqlMainClassTests.memberPOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="crowdfunding10-member-mysql-provider" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.raise.crowd.*" />
+          <option name="PATTERN" value="com.raise.crowd.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,6 +154,29 @@
       <option name="MAIN_CLASS_NAME" value="com.raise.crowd.CrowdMysqlMainClassTests" />
       <option name="METHOD_NAME" value="memberPOTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.redisTemplateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding11-member-redis-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raise.crowd.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raise.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.raise.crowd.RedisTest" />
+      <option name="METHOD_NAME" value="redisTemplateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdAuthMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crowdfunding12-member-authentication-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raise.crowd.CrowdAuthMainClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,9 +220,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Crowdfunding08MemberEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="crowdfunding08-member-eureka" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raise.crowd.crowdfunding08membereureka.Crowdfunding08MemberEurekaApplication" />
+    <configuration name="CrowdRedisMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crowdfunding11-member-redis-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raise.crowd.CrowdRedisMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdZuulMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding16-member-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raise.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raise.crowd.CrowdZuulMainClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -296,21 +314,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.CrowdMysqlMainClassTests.dataSourceTest" />
-      <item itemvalue="Spring Boot.Crowdfunding08MemberEurekaApplication" />
+      <item itemvalue="JUnit.CrowdMysqlMainClassTests.memberPOTest" />
+      <item itemvalue="JUnit.RedisTest.redisTemplateTest" />
       <item itemvalue="Spring Boot.CrowdEurekaMainClass" />
       <item itemvalue="Spring Boot.CrowdMysqlMainClass" />
       <item itemvalue="Tomcat Server.crowdfunding02_admin_webui" />
-      <item itemvalue="Application.MBGTest" />
-      <item itemvalue="JUnit.CrowdMysqlMainClassTests.memberPOTest" />
+      <item itemvalue="Spring Boot.CrowdRedisMainClass" />
+      <item itemvalue="Spring Boot.CrowdAuthMainClass" />
+      <item itemvalue="Spring Boot.CrowdZuulMainClass" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.CrowdZuulMainClass" />
         <item itemvalue="Spring Boot.CrowdMysqlMainClass" />
         <item itemvalue="Spring Boot.CrowdEurekaMainClass" />
+        <item itemvalue="JUnit.RedisTest.redisTemplateTest" />
         <item itemvalue="JUnit.CrowdMysqlMainClassTests.memberPOTest" />
-        <item itemvalue="Application.MBGTest" />
-        <item itemvalue="JUnit.CrowdMysqlMainClassTests.dataSourceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +391,8 @@
       <workItem from="1591150373565" duration="771000" />
       <workItem from="1591151181083" duration="4114000" />
       <workItem from="1591155304276" duration="6614000" />
-      <workItem from="1591168340933" duration="4530000" />
+      <workItem from="1591168340933" duration="6881000" />
+      <workItem from="1591175962709" duration="7674000" />
     </task>
     <task id="LOCAL-00001" summary="尚筹网(权限管理页面完成阶段)">
       <created>1590807945556</created>
@@ -437,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591084384620</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="尚筹网(前台环境搭建前半部分完成)">
+      <created>1591173213367</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591173213367</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +547,8 @@
     <MESSAGE value="尚筹网(管理员页面基础完成阶段)" />
     <MESSAGE value="尚筹网(项目结构调整)" />
     <MESSAGE value="尚筹网(第一阶段-管理员部分完成)" />
-    <option name="LAST_COMMIT_MESSAGE" value="尚筹网(第一阶段-管理员部分完成)" />
+    <MESSAGE value="尚筹网(前台环境搭建前半部分完成)" />
+    <option name="LAST_COMMIT_MESSAGE" value="尚筹网(前台环境搭建前半部分完成)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="651" y="279" width="471" height="469" key="#Notifications" timestamp="1590803484548">
@@ -531,10 +559,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1591169754146" />
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591172742520">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591174205518">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1591172742520" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1591174205518" />
     <state x="747" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590308527694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -547,6 +575,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="192" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1591147459110" />
+    <state x="498" y="206" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591174186987">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="206" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1591174186987" />
     <state x="246" y="280" width="1044" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591154774391">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -579,38 +611,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="313" y="114" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1590804530791" />
-    <state width="1493" height="380" key="GridCell.Tab.0.bottom" timestamp="1591172727271">
+    <state width="1493" height="380" key="GridCell.Tab.0.bottom" timestamp="1591186004879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="380" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
-    <state width="1493" height="380" key="GridCell.Tab.0.center" timestamp="1591172727270">
+    <state width="1493" height="380" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591186004879" />
+    <state width="1493" height="380" key="GridCell.Tab.0.center" timestamp="1591186004879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="380" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591172727270" />
-    <state width="1493" height="380" key="GridCell.Tab.0.left" timestamp="1591172727270">
+    <state width="1493" height="380" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591186004879" />
+    <state width="1493" height="380" key="GridCell.Tab.0.left" timestamp="1591186004879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="380" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591172727270" />
-    <state width="1493" height="380" key="GridCell.Tab.0.right" timestamp="1591172727270">
+    <state width="1493" height="380" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591186004879" />
+    <state width="1493" height="380" key="GridCell.Tab.0.right" timestamp="1591186004879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="380" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591172727270" />
-    <state width="1493" height="380" key="GridCell.Tab.1.bottom" timestamp="1591172727271">
+    <state width="1493" height="380" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591186004879" />
+    <state width="1493" height="380" key="GridCell.Tab.1.bottom" timestamp="1591186004879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="380" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
-    <state width="1493" height="380" key="GridCell.Tab.1.center" timestamp="1591172727271">
+    <state width="1493" height="380" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591186004879" />
+    <state width="1493" height="380" key="GridCell.Tab.1.center" timestamp="1591186004879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="380" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
-    <state width="1493" height="380" key="GridCell.Tab.1.left" timestamp="1591172727271">
+    <state width="1493" height="380" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1591186004879" />
+    <state width="1493" height="380" key="GridCell.Tab.1.left" timestamp="1591186004879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="380" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
-    <state width="1493" height="380" key="GridCell.Tab.1.right" timestamp="1591172727271">
+    <state width="1493" height="380" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1591186004879" />
+    <state width="1493" height="380" key="GridCell.Tab.1.right" timestamp="1591186004879">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="380" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
+    <state width="1493" height="380" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591186004879" />
     <state width="1265" height="385" key="GridCell.Tab.2.bottom" timestamp="1591083371744">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -651,14 +683,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="675" y="148" width="724" height="593" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1591082517473" />
-    <state x="145" y="0" key="SettingsEditor" timestamp="1591171225138">
+    <state x="145" y="0" key="SettingsEditor" timestamp="1591183204516">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="145" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591171225138" />
-    <state x="490" y="159" width="543" height="524" key="StructurePopup" timestamp="1591147422341">
+    <state x="145" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591183204516" />
+    <state x="490" y="159" width="543" height="524" key="StructurePopup" timestamp="1591183386268">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="490" y="159" width="543" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1591147422341" />
+    <state x="490" y="159" width="543" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1591183386268" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1591084627019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -667,10 +699,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="301" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1591147723226" />
-    <state x="563" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591083536257">
+    <state x="563" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591185454652">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="563" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1591083536257" />
+    <state x="563" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1591185454652" />
     <state x="539" y="108" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591147462512">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -691,9 +723,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="426" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1590800153337" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1590978526588">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1591184724214">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1590978526588" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1591184724214" />
   </component>
 </project>
