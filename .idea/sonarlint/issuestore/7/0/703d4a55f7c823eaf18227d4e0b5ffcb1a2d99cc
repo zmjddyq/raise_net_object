@@ -1,0 +1,10 @@
+
+T
+java:S1155H">Use isEmpty() to check whether the collection is empty or not.(¨Œ¥
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹äıÉùÿÿÿÿ
+†
+java:S14889"qImmediately return this expression instead of assigning it to the temporary variable "assignedRoleListByAdminId".(å‡Ñ
+‰
+java:S1488?"sImmediately return this expression instead of assigning it to the temporary variable "unassignedRoleListByAdminId".(ÿ÷
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(İïá¾şÿÿÿÿ

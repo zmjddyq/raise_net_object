@@ -21,27 +21,27 @@
         </javaTypeResolver>
 
         <!--    指定javabean生成的位置    -->
-        <javaModelGenerator targetPackage="com.raise.crowd.entity"
-                            targetProject="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding04-admin-entity\src\main\java">
+        <javaModelGenerator targetPackage="com.raise.crowd.entity.po"
+                            targetProject="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding09-member-entity\src\main\java">
             <property name="enableSubPackages" value="true"/>
             <property name="trimStrings" value="true"/>
         </javaModelGenerator>
 
         <!--    指定sql映射文件生成的位置    -->
         <sqlMapGenerator targetPackage="mapper"
-                         targetProject="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\resources\mybatis">
+                         targetProject="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding10-member-mysql-provider\src\main\resources\mybatis">
             <property name="enableSubPackages" value="true"/>
         </sqlMapGenerator>
 
         <!--    指定dao接口生成的位置,mapper接口    -->
         <javaClientGenerator type="XMLMAPPER"
                              targetPackage="com.raise.crowd.mapper"
-                             targetProject="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding03-admin-component\src\main\java">
+                             targetProject="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding10-member-mysql-provider\src\main\java">
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 
         <!--    指定每个表的生成策略   -->
-        <table tableName="t_auth" domainObjectName="Auth"></table>
+        <table tableName="t_member" domainObjectName="MemberPO"></table>
 
     </context>
 </generatorConfiguration>

@@ -12,7 +12,14 @@
         <option value="$PROJECT_DIR$/crowdfunding01-admin-parent/pom.xml" />
         <option value="$PROJECT_DIR$/crowdfunding05-common-util/pom.xml" />
         <option value="$PROJECT_DIR$/crowdfunding06-common-reverse/pom.xml" />
+        <option value="$PROJECT_DIR$/atcrowdfunding07-member-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/crowdfunding07-member-parent/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/crowdfunding07-member-parent/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

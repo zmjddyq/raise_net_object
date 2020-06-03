@@ -1,0 +1,21 @@
+server:
+  port: 2000
+spring:
+  application:
+    name: raise-crowd-mysql
+  datasource:
+    type: com.alibaba.druid.pool.DruidDataSource
+    url: jdbc:mysql://localhost:3306/project_crowd?characterEncoding=utf8&useSSL=false&serverTimezone=UTC&rewriteBatchedStatements=true
+    username: root
+    password: 362343
+    driver-class-name: com.mysql.cj.jdbc.Driver
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:1000/eureka
+mybatis:
+  mapper-locations: classpath*:/mybatis/mapper/*Mapper.xml
+  logging:
+    level:
+      com.raise.crowd.mapper: debug
+      com.raise.crowd.test: debug

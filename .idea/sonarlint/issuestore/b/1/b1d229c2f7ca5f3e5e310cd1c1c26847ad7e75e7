@@ -1,0 +1,23 @@
+
+W
+java:S34571"AFormat specifiers should be used instead of string concatenation.(æİÂŠ
+V
+java:S11933"@Replace the usage of the "instanceof" operator by a catch block.(×’°è
+V
+java:S1193{"@Replace the usage of the "instanceof" operator by a catch block.(×’°è
+>
+java:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+y
+java:S1488-"^Immediately return this expression instead of assigning it to the temporary variable "insert".(ÓğÜşÿÿÿÿ
+f	java:S117i"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸•Ÿ°
+x
+java:S1488d"]Immediately return this expression instead of assigning it to the temporary variable "admin".(ïÕ¼ÿÿÿÿÿ
+y
+java:S1488n"^Immediately return this expression instead of assigning it to the temporary variable "admins".(Ù¾´½ÿÿÿÿÿ
+>
+java:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+t
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñæûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹äıÉùÿÿÿÿ
+W
+java:S3457y"AFormat specifiers should be used instead of string concatenation.(æİÂŠ

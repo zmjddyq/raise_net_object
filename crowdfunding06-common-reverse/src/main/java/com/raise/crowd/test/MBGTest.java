@@ -18,7 +18,7 @@ public class MBGTest {
     public static void main(String[] args) throws Exception {
         List<String> warnings = new ArrayList<String>();
         boolean overwrite = true;
-        File configFile = new File("D:\\java\\workspaceIDEA\\raise_net_object\\crowdfunding01-admin-parent\\crowdfunding06-common-reverse\\src\\main\\resources\\generatorConfig.xml");
+        File configFile = new File("D:\\java\\workspaceIDEA\\raise_net_object\\crowdfunding06-common-reverse\\src\\main\\resources\\generatorConfig.xml");
         System.out.println(configFile.getAbsolutePath());
         ConfigurationParser cp = new ConfigurationParser(warnings);
         Configuration config = cp.parseConfiguration(configFile);

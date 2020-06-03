@@ -24,7 +24,17 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="907cf290-fb7e-4028-b78f-2804216b2d45" name="Default Changelist" comment="尚筹网(第一阶段-管理员部分完成)" />
+    <list default="true" id="907cf290-fb7e-4028-b78f-2804216b2d45" name="Default Changelist" comment="尚筹网(第一阶段-管理员部分完成)">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/src/main/java/com/raise/crowd/test/MBGTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding06-common-reverse/src/main/java/com/raise/crowd/test/MBGTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding06-common-reverse/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/com/raise/crowd/test/MBGTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/com/raise/crowd/test/MBGTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crowdfunding06-common-reverse/target/classes/generatorConfig.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,9 +48,9 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="AnnotationType" />
+        <option value="Jsp File" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -76,77 +86,141 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/crowdfunding07-member-parent/crowdfunding09-member-entity/src/test/java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2886836" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.raise.crowd.service.Impl" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\admin" />
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\menu" />
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\role" />
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\common" />
-      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\static" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.raise.crowd.mapper" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.raise.crowd" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding09-member-entity\src\test\java" />
       <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\error" />
       <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding03-admin-component\src\main\java\com\raise\crowd\mvc\config" />
       <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding03-admin-component\src\main\java\org\springframework\web\filter" />
       <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF" />
-      <recent name="D:\java\workspaceIDEA\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\ztree" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.raise.crowd" />
+      <recent name="com.raise.crowd.mapper" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding10-member-mysql-provider\src\main\resources" />
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding07-member-parent\crowdfunding08-member-eureka\src\main\resources" />
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\admin" />
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\menu" />
+      <recent name="D:\java\workspaceIDEA\raise_net_object\crowdfunding01-admin-parent\crowdfunding02-admin-webui\src\main\webapp\WEB-INF\role" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.crowdfunding02_admin_webui">
-    <configuration name="CrowdTest.roleMapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="crowdfunding02-admin-webui" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CrowdTest" />
-      <option name="METHOD_NAME" value="roleMapperTest" />
+  <component name="RunManager" selected="Spring Boot.CrowdMysqlMainClass">
+    <configuration name="MBGTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.raise.crowd.test.MBGTest" />
+      <module name="crowdfunding06-common-reverse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raise.crowd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CrowdMysqlMainClassTests.dataSourceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding10-member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raise.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raise.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.raise.crowd.CrowdMysqlMainClassTests" />
+      <option name="METHOD_NAME" value="dataSourceTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CrowdTest.selectAssignedAuthNameByAdminIdTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="crowdfunding02-admin-webui" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CrowdTest" />
-      <option name="METHOD_NAME" value="selectAssignedAuthNameByAdminIdTest" />
+    <configuration name="CrowdMysqlMainClassTests.memberPOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding10-member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raise.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.raise.crowd" />
+      <option name="MAIN_CLASS_NAME" value="com.raise.crowd.CrowdMysqlMainClassTests" />
+      <option name="METHOD_NAME" value="memberPOTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CrowdTest.txTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="crowdfunding02-admin-webui" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CrowdTest" />
-      <option name="METHOD_NAME" value="txTest" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration name="CrowdEurekaMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding08-member-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raise.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raise.crowd.CrowdEurekaMainClass" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="123.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8081/crowdfunding02_admin_webui/WEB-INF/error/123.html">
-      <method v="2" />
+    <configuration name="CrowdEurekaMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding08-member-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raise.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raise.crowd.CrowdEurekaMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8081/crowdfunding02_admin_webui/index.html">
-      <method v="2" />
+    <configuration name="CrowdMysqlMainClass" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="crowdfunding10-member-mysql-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.raise.crowd.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raise.crowd.CrowdMysqlMainClass" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Crowdfunding08MemberEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="crowdfunding08-member-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.raise.crowd.crowdfunding08membereureka.Crowdfunding08MemberEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="crowdfunding02_admin_webui" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="false">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/crowdfunding02_admin_webui/admin/to/main/page.html" />
@@ -222,20 +296,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.123.html" />
-      <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="JUnit.CrowdTest.roleMapperTest" />
-      <item itemvalue="JUnit.CrowdTest.selectAssignedAuthNameByAdminIdTest" />
-      <item itemvalue="JUnit.CrowdTest.txTest" />
+      <item itemvalue="JUnit.CrowdMysqlMainClassTests.dataSourceTest" />
+      <item itemvalue="Spring Boot.Crowdfunding08MemberEurekaApplication" />
+      <item itemvalue="Spring Boot.CrowdEurekaMainClass" />
+      <item itemvalue="Spring Boot.CrowdMysqlMainClass" />
       <item itemvalue="Tomcat Server.crowdfunding02_admin_webui" />
+      <item itemvalue="Application.MBGTest" />
+      <item itemvalue="JUnit.CrowdMysqlMainClassTests.memberPOTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.123.html" />
-        <item itemvalue="JUnit.CrowdTest.txTest" />
-        <item itemvalue="JUnit.CrowdTest.selectAssignedAuthNameByAdminIdTest" />
-        <item itemvalue="JUnit.CrowdTest.roleMapperTest" />
+        <item itemvalue="Spring Boot.CrowdMysqlMainClass" />
+        <item itemvalue="Spring Boot.CrowdEurekaMainClass" />
+        <item itemvalue="JUnit.CrowdMysqlMainClassTests.memberPOTest" />
+        <item itemvalue="Application.MBGTest" />
+        <item itemvalue="JUnit.CrowdMysqlMainClassTests.dataSourceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +364,15 @@
       <workItem from="1591081664223" duration="783000" />
       <workItem from="1591082457142" duration="136000" />
       <workItem from="1591082597330" duration="770000" />
-      <workItem from="1591083446544" duration="929000" />
+      <workItem from="1591083446544" duration="5591000" />
+      <workItem from="1591143147266" duration="2947000" />
+      <workItem from="1591146110283" duration="669000" />
+      <workItem from="1591146875875" duration="2416000" />
+      <workItem from="1591149898861" duration="451000" />
+      <workItem from="1591150373565" duration="771000" />
+      <workItem from="1591151181083" duration="4114000" />
+      <workItem from="1591155304276" duration="6614000" />
+      <workItem from="1591168340933" duration="4530000" />
     </task>
     <task id="LOCAL-00001" summary="尚筹网(权限管理页面完成阶段)">
       <created>1590807945556</created>
@@ -347,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591084005148</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="尚筹网(第一阶段-管理员部分完成)">
+      <created>1591084384620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1591084384620</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,6 +484,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
               <option name="COLUMN_WIDTH">
                 <map>
                   <entry key="2" value="117" />
@@ -426,14 +527,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="651" y="279" width="471" height="469" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1590803484548" />
-    <state x="249" y="0" key="#Project_Structure" timestamp="1591082548416">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1591169754146">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1591082548416" />
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591081341889">
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1591169754146" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591172742520">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1591081341889" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1591172742520" />
     <state x="747" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590308527694">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -442,6 +543,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="732" y="138" width="503" height="589" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1590924065942" />
+    <state x="499" y="192" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1591147459110">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="192" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1591147459110" />
+    <state x="246" y="280" width="1044" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591154774391">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="246" y="280" width="1044" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.834@0.0.1536.834" timestamp="1591154774391" />
     <state x="523" y="263" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1590625464465">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -462,46 +571,46 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="618" y="329" key="Github.Dialog.Accounts.Choose/0.0.1536.834@0.0.1536.834" timestamp="1590808851623" />
-    <state x="620" y="314" width="381" height="250" key="Github.ShareDialog" timestamp="1591083212999">
+    <state x="620" y="314" width="381" height="250" key="Github.ShareDialog" timestamp="1591084415693">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="620" y="314" width="381" height="250" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1591083212999" />
+    <state x="620" y="314" width="381" height="250" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1591084415693" />
     <state x="313" y="114" key="Github.UntrackedFilesDialog" timestamp="1590804530791">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="313" y="114" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1590804530791" />
-    <state width="1265" height="385" key="GridCell.Tab.0.bottom" timestamp="1591083371743">
+    <state width="1493" height="380" key="GridCell.Tab.0.bottom" timestamp="1591172727271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1265" height="385" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591083371743" />
-    <state width="1265" height="385" key="GridCell.Tab.0.center" timestamp="1591083371743">
+    <state width="1493" height="380" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
+    <state width="1493" height="380" key="GridCell.Tab.0.center" timestamp="1591172727270">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1265" height="385" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591083371743" />
-    <state width="1265" height="385" key="GridCell.Tab.0.left" timestamp="1591083371743">
+    <state width="1493" height="380" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591172727270" />
+    <state width="1493" height="380" key="GridCell.Tab.0.left" timestamp="1591172727270">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1265" height="385" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591083371743" />
-    <state width="1265" height="385" key="GridCell.Tab.0.right" timestamp="1591083371743">
+    <state width="1493" height="380" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591172727270" />
+    <state width="1493" height="380" key="GridCell.Tab.0.right" timestamp="1591172727270">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1265" height="385" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591083371743" />
-    <state width="1265" height="385" key="GridCell.Tab.1.bottom" timestamp="1591083371744">
+    <state width="1493" height="380" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591172727270" />
+    <state width="1493" height="380" key="GridCell.Tab.1.bottom" timestamp="1591172727271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1265" height="385" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591083371744" />
-    <state width="1265" height="385" key="GridCell.Tab.1.center" timestamp="1591083371743">
+    <state width="1493" height="380" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
+    <state width="1493" height="380" key="GridCell.Tab.1.center" timestamp="1591172727271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1265" height="385" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1591083371743" />
-    <state width="1265" height="385" key="GridCell.Tab.1.left" timestamp="1591083371743">
+    <state width="1493" height="380" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
+    <state width="1493" height="380" key="GridCell.Tab.1.left" timestamp="1591172727271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1265" height="385" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1591083371743" />
-    <state width="1265" height="385" key="GridCell.Tab.1.right" timestamp="1591083371743">
+    <state width="1493" height="380" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
+    <state width="1493" height="380" key="GridCell.Tab.1.right" timestamp="1591172727271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1265" height="385" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591083371743" />
+    <state width="1493" height="380" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1591172727271" />
     <state width="1265" height="385" key="GridCell.Tab.2.bottom" timestamp="1591083371744">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -534,34 +643,46 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1318" height="364" key="GridCell.Tab.3.right/0.0.1536.834@0.0.1536.834" timestamp="1590569248711" />
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog" timestamp="1591154159458">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="299" y="72" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1591154159458" />
     <state x="675" y="148" width="724" height="593" key="NewModule_or_Project.wizard" timestamp="1591082517473">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="675" y="148" width="724" height="593" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1591082517473" />
-    <state x="335" y="0" key="SettingsEditor" timestamp="1591083748675">
+    <state x="145" y="0" key="SettingsEditor" timestamp="1591171225138">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="335" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591083748675" />
-    <state x="490" y="159" width="543" height="524" key="StructurePopup" timestamp="1590910768873">
+    <state x="145" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591171225138" />
+    <state x="490" y="159" width="543" height="524" key="StructurePopup" timestamp="1591147422341">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="490" y="159" width="543" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1590910768873" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1591083552195">
+    <state x="490" y="159" width="543" height="524" key="StructurePopup/0.0.1536.834@0.0.1536.834" timestamp="1591147422341" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1591084627019">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591083552195" />
-    <state x="301" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1590911983371">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1591084627019" />
+    <state x="301" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1591147723226">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="301" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1590911983371" />
+    <state x="301" y="6" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.834@0.0.1536.834" timestamp="1591147723226" />
     <state x="563" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591083536257">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="563" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1591083536257" />
-    <state x="178" y="27" key="new project wizard" timestamp="1591079430381">
+    <state x="539" y="108" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591147462512">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="178" y="27" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1591079430381" />
+    <state x="539" y="108" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.834@0.0.1536.834" timestamp="1591147462512" />
+    <state width="326" height="350" key="documentation.popup.size" timestamp="1591149184984">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="326" height="350" key="documentation.popup.size/0.0.1536.834@0.0.1536.834" timestamp="1591149184984" />
+    <state x="194" y="41" key="new project wizard" timestamp="1591170689397">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="194" y="41" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1591170689397" />
     <state x="545" y="173" key="refactoring.ChangeSignatureDialog" timestamp="1590734002682">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

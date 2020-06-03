@@ -1,0 +1,17 @@
+
+V	java:S125X"<This block of commented-out lines of code should be removed.(Îªìáúÿÿÿÿ
+>
+java:S1123±"(Add the missing @deprecated Javadoc tag.(ûŒë
+?
+java:S1123Â"(Add the missing @deprecated Javadoc tag.(àøÍÑ
+†
+java:S1192?"kDefine a constant instead of duplicating this literal "redirect:/admin/getAdminList.html?pageNum=" 3 times.(Éÿãèúÿÿÿÿ
+K
+java:S1133±"5Do not forget to remove this deprecated code someday.(ûŒë
+W
+java:S2441Ğ";Make "Admin" serializable or don't store it in the session.(ß°©‡øÿÿÿÿ
+L
+java:S1133Â"5Do not forget to remove this deprecated code someday.(àøÍÑ
+W	java:S125×"<This block of commented-out lines of code should be removed.(ã†ê´ùÿÿÿÿ
+B
+java:S1068$"'Remove this unused "log" private field.(¬úÈÄøÿÿÿÿ
